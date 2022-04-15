@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">worth to be seen</string>
+    <string name="content_description">Aurora Borealis reflected between two fjords in Tromsø</string>
+    <string name="content_description2">Northern Light, Aurora borealis at Kirkjufell in Iceland</string>
+    <string name="price_string">Price</string>
+    <string name="price">$ 7.49</string>
+    <string name="price2">$ 5.99</string>
+    <string name="button_buy">BUY NOW</string>
+    <string name="button_next_description">NEXT PLACE</string>
+    <string name="button_prev_description">PREVIOUS PLACE</string>
+</resources>
